@@ -1,0 +1,6 @@
+uppercase.txt
+sentence-1.txt
+sentence-2.txt
+sentence-3.txt
+sentence-4.txt
+sorted.txt
